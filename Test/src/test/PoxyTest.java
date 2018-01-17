@@ -22,6 +22,6 @@ public class PoxyTest {
 			proxyInstance.add("你好");
 			System.out.println(list);
 			
-		
+		System.out.println("我很好");
 	}
 }
